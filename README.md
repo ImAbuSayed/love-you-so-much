@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-you-so-much/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Love You So Much](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-so-much/) |
+| **Get License** | [Secure Licensing Rights for Love You So Much](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-so-much/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the whiskey warmth inside your stare
+> Running my fingers through your tangled hair
+> We’re swaying slowly in the neon light
+> So pull me closer, let’s get lost tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
